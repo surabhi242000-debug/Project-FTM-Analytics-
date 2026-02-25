@@ -1,4 +1,4 @@
-# Project FTM Analysys: Manufacturing Downtime & Machine Failure Analysis
+# Project FTM Analysis: Manufacturing Downtime & Machine Failure Analysis
 
 
 ## 📌 Project Overview
